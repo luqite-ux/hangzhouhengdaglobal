@@ -1,0 +1,194 @@
+{
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "sectionId": "hero-banner-carousel",
+      "query": "hero adaptive-contrast-hero-carousel industrial worm gear",
+      "candidates": [
+        {
+          "id": "original-hero-motion",
+          "productionReady": false,
+          "confidence": 0.45,
+          "reviewStatus": "待人工验收"
+        },
+        {
+          "id": "original-scroll-motion",
+          "productionReady": false,
+          "confidence": 0.5,
+          "reviewStatus": "待人工验收"
+        }
+      ],
+      "decision": "rejected",
+      "receipt": "deliverables/motion-usage.json",
+      "reason": "Evaluated motion catalog (23 items); all matching candidates are still marked 待人工验收 and do not support our custom Three.js real-time worm-gear meshing, per-slide adaptive Banner safe zones, or zero-premature-timeout IO lifecycle for hero-banner-carousel."
+    },
+    {
+      "sectionId": "factory-metrics-bar",
+      "query": "metrics kpi-band industrial worm gear",
+      "candidates": [
+        {
+          "id": "original-hero-motion",
+          "productionReady": false,
+          "confidence": 0.45,
+          "reviewStatus": "待人工验收"
+        },
+        {
+          "id": "original-scroll-motion",
+          "productionReady": false,
+          "confidence": 0.5,
+          "reviewStatus": "待人工验收"
+        }
+      ],
+      "decision": "rejected",
+      "receipt": "deliverables/motion-usage.json",
+      "reason": "Evaluated motion catalog (23 items); all matching candidates are still marked 待人工验收 and do not support our custom Three.js real-time worm-gear meshing, per-slide adaptive Banner safe zones, or zero-premature-timeout IO lifecycle for factory-metrics-bar."
+    },
+    {
+      "sectionId": "core-reducer-series",
+      "query": "products product-comparison-grid industrial worm gear",
+      "candidates": [
+        {
+          "id": "original-hero-motion",
+          "productionReady": false,
+          "confidence": 0.45,
+          "reviewStatus": "待人工验收"
+        },
+        {
+          "id": "original-scroll-motion",
+          "productionReady": false,
+          "confidence": 0.5,
+          "reviewStatus": "待人工验收"
+        }
+      ],
+      "decision": "rejected",
+      "receipt": "deliverables/motion-usage.json",
+      "reason": "Evaluated motion catalog (23 items); all matching candidates are still marked 待人工验收 and do not support our custom Three.js real-time worm-gear meshing, per-slide adaptive Banner safe zones, or zero-premature-timeout IO lifecycle for core-reducer-series."
+    },
+    {
+      "sectionId": "interactive-3d-worm-gear-explorer",
+      "query": "interactive-3d threejs-webgl-explorer industrial worm gear",
+      "candidates": [
+        {
+          "id": "original-hero-motion",
+          "productionReady": false,
+          "confidence": 0.45,
+          "reviewStatus": "待人工验收"
+        },
+        {
+          "id": "original-scroll-motion",
+          "productionReady": false,
+          "confidence": 0.5,
+          "reviewStatus": "待人工验收"
+        }
+      ],
+      "decision": "rejected",
+      "receipt": "deliverables/motion-usage.json",
+      "reason": "Evaluated motion catalog (23 items); all matching candidates are still marked 待人工验收 and do not support our custom Three.js real-time worm-gear meshing, per-slide adaptive Banner safe zones, or zero-premature-timeout IO lifecycle for interactive-3d-worm-gear-explorer."
+    },
+    {
+      "sectionId": "conveyor-industrial-applications",
+      "query": "applications application-matrix industrial worm gear",
+      "candidates": [
+        {
+          "id": "original-hero-motion",
+          "productionReady": false,
+          "confidence": 0.45,
+          "reviewStatus": "待人工验收"
+        },
+        {
+          "id": "original-scroll-motion",
+          "productionReady": false,
+          "confidence": 0.5,
+          "reviewStatus": "待人工验收"
+        }
+      ],
+      "decision": "rejected",
+      "receipt": "deliverables/motion-usage.json",
+      "reason": "Evaluated motion catalog (23 items); all matching candidates are still marked 待人工验收 and do not support our custom Three.js real-time worm-gear meshing, per-slide adaptive Banner safe zones, or zero-premature-timeout IO lifecycle for conveyor-industrial-applications."
+    },
+    {
+      "sectionId": "manufacturing-workshop-evidence",
+      "query": "manufacturing curated-factory-showcase industrial worm gear",
+      "candidates": [
+        {
+          "id": "original-hero-motion",
+          "productionReady": false,
+          "confidence": 0.45,
+          "reviewStatus": "待人工验收"
+        },
+        {
+          "id": "original-scroll-motion",
+          "productionReady": false,
+          "confidence": 0.5,
+          "reviewStatus": "待人工验收"
+        }
+      ],
+      "decision": "rejected",
+      "receipt": "deliverables/motion-usage.json",
+      "reason": "Evaluated motion catalog (23 items); all matching candidates are still marked 待人工验收 and do not support our custom Three.js real-time worm-gear meshing, per-slide adaptive Banner safe zones, or zero-premature-timeout IO lifecycle for manufacturing-workshop-evidence."
+    },
+    {
+      "sectionId": "oem-customization-workflow",
+      "query": "workflow process-steps industrial worm gear",
+      "candidates": [
+        {
+          "id": "original-hero-motion",
+          "productionReady": false,
+          "confidence": 0.45,
+          "reviewStatus": "待人工验收"
+        },
+        {
+          "id": "original-scroll-motion",
+          "productionReady": false,
+          "confidence": 0.5,
+          "reviewStatus": "待人工验收"
+        }
+      ],
+      "decision": "rejected",
+      "receipt": "deliverables/motion-usage.json",
+      "reason": "Evaluated motion catalog (23 items); all matching candidates are still marked 待人工验收 and do not support our custom Three.js real-time worm-gear meshing, per-slide adaptive Banner safe zones, or zero-premature-timeout IO lifecycle for oem-customization-workflow."
+    },
+    {
+      "sectionId": "procurement-faq-section",
+      "query": "faq balanced-faq-accordion industrial worm gear",
+      "candidates": [
+        {
+          "id": "original-hero-motion",
+          "productionReady": false,
+          "confidence": 0.45,
+          "reviewStatus": "待人工验收"
+        },
+        {
+          "id": "original-scroll-motion",
+          "productionReady": false,
+          "confidence": 0.5,
+          "reviewStatus": "待人工验收"
+        }
+      ],
+      "decision": "rejected",
+      "receipt": "deliverables/motion-usage.json",
+      "reason": "Evaluated motion catalog (23 items); all matching candidates are still marked 待人工验收 and do not support our custom Three.js real-time worm-gear meshing, per-slide adaptive Banner safe zones, or zero-premature-timeout IO lifecycle for procurement-faq-section."
+    },
+    {
+      "sectionId": "direct-rfq-contact-section",
+      "query": "contact balanced-rfq-form industrial worm gear",
+      "candidates": [
+        {
+          "id": "original-hero-motion",
+          "productionReady": false,
+          "confidence": 0.45,
+          "reviewStatus": "待人工验收"
+        },
+        {
+          "id": "original-scroll-motion",
+          "productionReady": false,
+          "confidence": 0.5,
+          "reviewStatus": "待人工验收"
+        }
+      ],
+      "decision": "rejected",
+      "receipt": "deliverables/motion-usage.json",
+      "reason": "Evaluated motion catalog (23 items); all matching candidates are still marked 待人工验收 and do not support our custom Three.js real-time worm-gear meshing, per-slide adaptive Banner safe zones, or zero-premature-timeout IO lifecycle for direct-rfq-contact-section."
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": "clevelandgear-home",
+  "requestedUrl": "https://www.clevelandgear.com/",
+  "finalUrl": "https://www.clevelandgear.com/",
+  "status": 200,
+  "fetchedAt": "2026-11-25T10:07:38.965Z",
+  "title": "Cleveland Gear - Enclosed Gear Drives &amp; Open Gearing",
+  "h1s": [
+    "Enclosed Gearbox Reducers &amp; Open Gearing"
+  ],
+  "h2s": [
+    "Built for industries that can’t afford downtime.",
+    "Engineering Excellence in Power Transmission",
+    "Product Categories",
+    "Hot Strip Mill Drive Rebuild",
+    "Drives Working Around the World.",
+    "Get in Touch"
+  ],
+  "sampleLinks": [
+    {
+      "href": "/about",
+      "text": "About"
+    },
+    {
+      "href": "/industries",
+      "text": "Industries"
+    },
+    {
+      "href": "/documents",
+      "text": "Resources"
+    },
+    {
+      "href": "/solutions",
+      "text": "Solutions"
+    },
+    {
+      "href": "/contact",
+      "text": "Contact Us"
+    },
+    {
+      "href": "#contact",
+      "text": "Contact Us"
+    },
+    {
+      "href": "#products",
+      "text": "Explore Products"
+    },
+    {
+      "href": "/products/enclosed-gear-drives/right-angle-worm-drive",
+      "text": "Enclosed Gearbox Reducers"
+    },
+    {
+      "href": "#products",
+      "text": "Open Gearing"
+    },
+    {
+      "href": "#products",
+      "text": "Custom Products"
+    },
+    {
+      "href": "#products",
+      "text": "Service / Rebuild Work"
+    },
+    {
+      "href": "/industries",
+      "text": "View All Industries"
+    },
+    {
+      "href": "/products",
+      "text": "View All Products"
+    },
+    {
+      "href": "#contact",
+      "text": "View Full Case Study"
+    },
+    {
+      "href": "/products/enclosed-gear-drives",
+      "text": "Enclosed Gear Drives"
+    },
+    {
+      "href": "/products/open-gearing",
+      "text": "Open Gearing"
+    },
+    {
+      "href": "/products/rebuilds",
+      "text": "Rebuilds"
+    },
+    {
+      "href": "/industries/primary-metals",
+      "text": "Primary Metals"
+    },
+    {
+      "href": "/industries/power-generation",
+      "text": "Power Generation"
+    },
+    {
+      "href": "/industries/mining-and-minerals",
+      "text": "Mining and Minerals"
+    },
+    {
+      "href": "/industries/open-pit-quarry",
+      "text": "Open Pit Quarry"
+    },
+    {
+      "href": "/industries/data-centers",
+      "text": "Data Centers"
+    },
+    {
+      "href": "/industries/cranes",
+      "text": "Cranes"
+    },
+    {
+      "href": "/industries",
+      "text": "All Industries"
+    },
+    {
+      "href": "/about/history",
+      "text": "History"
+    }
+  ]
+}

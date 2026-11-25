@@ -1,0 +1,38 @@
+{
+  "context": {
+    "projectId": "project-aa21fd14-57e9-4d1c-8fa1-5c3eb804b8b3",
+    "runId": "run-be04ecdb-3272-48cf-9b76-930687611130",
+    "purpose": "build"
+  },
+  "localRequestId": "query-fcf65120-04f7-43a7-9e4b-933074e2d26e",
+  "request": {
+    "match": "fuzzy",
+    "sort": "relevance",
+    "limit": "5",
+    "query": "machinery equipment industrial",
+    "industry": "机械设备与工业自动化"
+  },
+  "at": "2026-11-25T10:06:07.173Z",
+  "status": 200,
+  "response": {
+    "total": 0,
+    "limit": 5,
+    "items": [],
+    "meta": {
+      "searchVersion": "fuzzy-v2",
+      "normalizedIndustry": "机械设备与工业自动化",
+      "normalizedRegion": null,
+      "normalizedSort": "relevance",
+      "concepts": [],
+      "rawTerms": [],
+      "ignoredGenericTerms": true,
+      "matchDetails": [],
+      "experimental": true,
+      "requestId": "query-fcf65120-04f7-43a7-9e4b-933074e2d26e",
+      "traceStatus": "recorded",
+      "responseHash": "cd3ef1deb798832c19b95c4e299ec52faa265a764415a8e814213cb4599abee3",
+      "contextStatus": "linked",
+      "transport": "mcp"
+    }
+  }
+}

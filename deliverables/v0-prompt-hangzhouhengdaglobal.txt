@@ -1,0 +1,52 @@
+You are designing a modern, authoritative, high-conversion English industrial manufacturer website for **Hangzhou Hengda Speed Reducer Machinery Factory** (brand name: **Hengda SpeedReducer** / **HD®**), a direct Chinese factory established in 2001 specializing in cylindrical worm gear speed reducers.
+
+### 1. Verified Brand & Company Facts (DO NOT FABRICATE ANY OTHER FACTS)
+- **Brand Name**: Hengda SpeedReducer (Official red italic `HD®` trademark logo — attached)
+- **Legal Entity (Footer Copyright)**: Hangzhou Hengda Speed Reducer Machinery Factory
+- **Founded**: 2001 (25+ years of cylindrical worm gear speed reducer manufacturing)
+- **Factory Location**: No. 30, Guancun Development Zone, Louta Town, Xiaoshan District, Hangzhou, Zhejiang, China
+- **Official Phone**: +86 13967166823
+- **Official Email**: info@hangzhouhengdaglobal.com
+- **Factory Scale**: ~2,700 m² facility, 3 workshops, 3 production lines
+- **Production Capacity & Lead Time**: 4,000 units/month capacity; 10-day regular order lead time; 30-day bulk/custom production cycle; MOQ 50 units; supports OEM/ODM, custom size/material/color/process, expedited production, bulk cooperation pricing, and outgoing factory inspection.
+- **Core Product Category**: Worm Gear Speed Reducers (3 core series):
+  1. **WD Series Cylindrical Worm Gear Speed Reducer** — Army-yellow / olive cast-iron housing, low noise, high transmission efficiency, designed for conveyor belt drives, MOQ 50.
+  2. **WP Series Cast-Iron Worm Gear Speed Reducer (WPA / WPO / WPX / WPS)** — Zhenyu-green cast-iron housing, multi-mounting configurations (WPA/WPO/WPX/WPS), low noise, high transmission efficiency, designed for conveyor belt drives, MOQ 50.
+  3. **NMRV Series Aluminum Worm Gear Speed Reducer** — Silver die-cast aluminum housing, compact right-angle mounting, low noise, high transmission efficiency, designed for conveyor belt drives, MOQ 50.
+
+### 2. Visual System & Brand Direction
+- **Palette**: Precision Mechanical Industrial aesthetic — crisp porcelain-white and light architectural slate-gray surfaces (`#F8FAFC`, `#FFFFFF`), deep forged steel-navy (`#0F172A`, `#1E293B`), brushed metallic steel accents (`#334155`), and controlled **Hengda Crimson Red** (`#B91C1C`, derived directly from the official `HD®` logo) for primary CTAs and active indicators.
+- **Typography**: Clean geometric sans-serif headings (Space Grotesk / Plus Jakarta Sans) paired with crisp technical tabular numerals (JetBrains Mono / Inter) for specs and capacity figures.
+- **Logo & Favicon**: Use the attached red `HD®` logo in the header and footer with `object-fit: contain` (never stretched or cropped) linking to `/`. Configure browser favicon from the same red `HD®` mark.
+
+### 3. Attached Real Customer Assets (MUST USE ALL 3 BANNERS)
+1. **Banner 1** (`banner-1.jpg`, 3840x1600): Silver NMRV reducer on LEFT, clean light silver-white negative space on RIGHT -> **Desktop text MUST sit on the RIGHT in dark navy (`#0F172A`) with NO dark overlay**. Headline direction: NMRV Aluminum Worm Gear Speed Reducers for Compact Conveyor Drives.
+2. **Banner 2** (`banner-2.jpg`, 3840x1600): Blue reducer & gear cluster on RIGHT, clean blue-gray negative space on LEFT -> **Desktop text MUST sit on the LEFT in crisp white** with subtle left-edge scrim behind copy only. Headline direction: WP & WD Cast-Iron Reducers Built for High-Torque Transmission.
+3. **Banner 3** (`banner-3.jpg`, 3840x1600): Industrial workshop deep-blue reducer on RIGHT, deep navy negative space on LEFT -> **Desktop text MUST sit on the LEFT in crisp white**. Headline direction: 2,700 m² Direct Hangzhou Factory — 4,000 Units Monthly Since 2001.
+- On 390px mobile: stack the focused reducer visual on top and clean high-contrast copy + CTA panel below so text never obscures the reducer.
+- **Products**: 3 attached 2000x2000 retouched white-background product photos (WD, WP, NMRV) displayed cleanly with `object-contain` on pure white stages without double frames.
+- **Factory Real Photos**: Attached real Hangzhou workshop, CNC machining, assembly workbench, and warehouse photos.
+
+### 4. Required Navigation & Multi-Page Architecture
+- Top navigation MUST explicitly include: **Home** (`/`), **Products** (`/products`), **Manufacturing** (`/manufacturing`), **About** (`/about`), **News** (`/news` — MUST be labeled exact `News`, never `Insights`), **Contact** (`/contact`).
+- Product detail route: `/products/[slug]` for WD, WP, and NMRV with structured specification tables, model selector (e.g., WPA/WPO/WPX/WPS), gallery viewer, and product-context inquiry CTA.
+- News route: `/news` and `/news/[slug]` with clean empty state (NO fabricated demo news articles).
+
+### 5. Required 9 Effective Homepage Sections (In Order)
+1. `hero-banner-carousel`: 3-slide adaptive-contrast carousel using all 3 attached customer Banners with prev/next, indicators, pause, keyboard, and touch support.
+2. `factory-metrics-bar`: 4 verified KPIs — Founded 2001 | 2,700 m² & 3 Lines | 4,000 Units/Month | 10-Day Regular Lead Time.
+3. `core-reducer-series`: 3-column comparison grid for WD, WP (WPA/WPO/WPX/WPS), and NMRV linking to `/products/[slug]` and `/products?category=worm-gear-speed-reducers`.
+4. `interactive-3d-worm-gear-explorer`: **Interactive Three.js 3D Worm Gear Meshing Explorer** — a real Three.js WebGL canvas showing a rotating helical worm shaft meshing at 90° with a bronze worm wheel inside switchable NMRV / WP / WD housings, with interactive Gear Ratio slider, Cutaway Housing toggle, pointer drag rotation, DPR cap, offscreen pause, and `prefers-reduced-motion` static fallback.
+5. `conveyor-industrial-applications`: 4 conveyor & machinery transmission application cards (Belt Conveyors, Packaging & Sorting Lines, Material Handling, OEM Continuous-Duty Drives).
+6. `manufacturing-workshop-evidence`: Curated Hangzhou factory showcase featuring CNC machining, assembly workbenches, bronze worm wheel stock, and dispatch bay, linking to `/manufacturing`.
+7. `oem-customization-workflow`: 4-step OEM/ODM order workflow (Specification Match -> Custom Size/Color/Material -> 10-Day Regular / 30-Day Bulk Production -> Outgoing Inspection & Dispatch).
+8. `procurement-faq-section`: 2-column balanced accordion (8 verified FAQs covering models, OEM/ODM, customization, MOQ 50, bulk pricing, lead times, expedited production, and outgoing inspection).
+9. `direct-rfq-contact-section`: **Balanced 2-column Contact & RFQ section** — LEFT column MUST contain rich verified company overview, Hangzhou factory address, phone (+86 13967166823), email (info@hangzhouhengdaglobal.com), MOQ 50 & lead time summary so it visually matches the height of the RIGHT column RFQ form (Name, Email, Company, Phone/WhatsApp, Model Selection, Quantity, Message, and 4-digit CAPTCHA input box) with zero hollow whitespace.
+
+### 6. Strict Content & Technical Guardrails
+- **ZERO warranty or guarantee claims**: NEVER use the words "warranty", "warranties", "guarantee", "guaranteed", "质保", or "保修" anywhere.
+- **ZERO fabricated certificates, case studies, or client logos**: Do not invent ISO/CE certificates, fake testimonials, or fake client names.
+- **ZERO "B2B" marketing jargon**: Use concrete industrial terms like "OEM & Wholesale Supply", "Direct Factory Supply", "Bulk Procurement" instead of "B2B".
+- **ZERO internal audit wording** in public UI.
+- **Progressive motion**: All content must remain visible if JS fails; use IntersectionObserver once-on-entry reveal with NO global timeout consuming offscreen reveals.
+- Output clean Next.js App Router + TypeScript + Tailwind CSS + Three.js code.

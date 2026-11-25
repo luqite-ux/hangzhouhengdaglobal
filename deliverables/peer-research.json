@@ -1,0 +1,251 @@
+{
+  "schemaVersion": 1,
+  "customerIndustry": "Industrial Cylindrical Worm Gear Speed Reducer Manufacturing",
+  "products": [
+    "WD Series Cylindrical Worm Gear Speed Reducer",
+    "WP Series Cast-Iron Worm Gear Speed Reducer (WPA / WPO / WPX / WPS)",
+    "NMRV Series Aluminum Worm Gear Speed Reducer"
+  ],
+  "targetBuyers": [
+    "Conveyor system OEMs and material-handling equipment builders",
+    "Industrial machinery integrators requiring right-angle speed reduction",
+    "Regional power transmission and gearbox distributors"
+  ],
+  "peers": [
+    {
+      "name": "Motovario S.p.A.",
+      "url": "https://www.motovario.com/eng/",
+      "normalizedDomain": "motovario.com",
+      "source": "web",
+      "overseasEvidence": {
+        "country": "Italy",
+        "whyCompetitor": "European originator and benchmark manufacturer of NMRV aluminum modular worm gear reducers and cast-iron right-angle gearboxes.",
+        "sourceUrl": "https://www.motovario.com/eng/company"
+      },
+      "pagesReviewed": [
+        {
+          "kind": "home",
+          "url": "https://www.motovario.com/eng/",
+          "observation": "Clean industrial hero showcasing metallic power transmission assemblies, clear product family grid, and direct engineering inquiry paths.",
+          "checkedAt": "2026-11-25T10:18:33.426Z",
+          "evidence": {
+            "path": "deliverables/blueprint-evidence/motovario-home.json",
+            "sha256": "09da5ec06d63394adbe0cb8e27929328d31df22bec5ce49778c70b24f9c15c7b"
+          }
+        },
+        {
+          "kind": "navigation",
+          "url": "https://www.motovario.com/eng/company",
+          "observation": "Top-level navigation separates Products, Company, Engineering/Applications, News, and Contact with clear mobile drawer.",
+          "checkedAt": "2026-11-25T10:18:33.426Z",
+          "evidence": {
+            "path": "deliverables/blueprint-evidence/motovario-about.json",
+            "sha256": "dbb2456a135180255e748b5c50f202d9b81b34b596a0aa976604fbacb71dfafc"
+          }
+        },
+        {
+          "kind": "products",
+          "url": "https://www.motovario.com/eng/products/worm-gear-reducers",
+          "observation": "Dedicated worm gear reducer catalog page separating NMRV modular aluminum units from cast-iron families with mounting and application clarity.",
+          "checkedAt": "2026-11-25T10:18:33.426Z",
+          "evidence": {
+            "path": "deliverables/blueprint-evidence/motovario-worm.json",
+            "sha256": "7aad6844eb94f5f1ebfcc88f23b1ff4c729adf65367f4f5d06fc3a27d45a8c40"
+          }
+        }
+      ],
+      "homeSections": [
+        "Hero Banner",
+        "Core Product Families",
+        "Industrial Applications",
+        "Manufacturing Heritage",
+        "Global Inquiry CTA"
+      ],
+      "navigation": [
+        "Home",
+        "Products",
+        "Applications",
+        "Company",
+        "News",
+        "Contact"
+      ],
+      "productTaxonomy": [
+        "Worm Gear Reducers (NMRV)",
+        "Helical Gear Reducers",
+        "Electric Motors"
+      ],
+      "adopt": [
+        "Series-first worm gear presentation separating NMRV aluminum vs cast-iron housings",
+        "Clear technical spec comparison table for quick OEM selection"
+      ],
+      "reject": [
+        "Complex multi-region distributor login portals not applicable to direct factory export",
+        "Do not copy Motovario product specs, ratings, or European certifications"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.motovario.com/eng/",
+          "observation": "Verified HTTP 200 homepage with 12 section headings focused on motoreducers and power transmission."
+        },
+        {
+          "url": "https://www.motovario.com/eng/products/worm-gear-reducers",
+          "observation": "Verified HTTP 200 worm gear reducers product section."
+        }
+      ]
+    },
+    {
+      "name": "Bonfiglioli Riduttori S.p.A.",
+      "url": "https://www.bonfiglioli.com/international/en",
+      "normalizedDomain": "bonfiglioli.com",
+      "source": "web",
+      "overseasEvidence": {
+        "country": "Italy",
+        "whyCompetitor": "Global European industrial gearbox and power transmission manufacturer offering right-angle worm gear drives for conveyors and automation.",
+        "sourceUrl": "https://www.bonfiglioli.com/international/en"
+      },
+      "pagesReviewed": [
+        {
+          "kind": "home",
+          "url": "https://www.bonfiglioli.com/international/en",
+          "observation": "Strong industrial blue-and-steel visual discipline with application-led navigation and clear manufacturing authority.",
+          "checkedAt": "2026-11-25T10:18:33.426Z",
+          "evidence": {
+            "path": "deliverables/blueprint-evidence/bonfiglioli-home.json",
+            "sha256": "5c911facf2f50b1fb18d8520bbb93777ba523d7a5c9251afcfa61b34ceb7f0fd"
+          }
+        },
+        {
+          "kind": "navigation",
+          "url": "https://www.bonfiglioli.com/international/en",
+          "observation": "Clear top-bar structure balancing Products, Industries, Manufacturing/About, and Contact.",
+          "checkedAt": "2026-11-25T10:18:33.426Z",
+          "evidence": {
+            "path": "deliverables/blueprint-evidence/bonfiglioli-nav.json",
+            "sha256": "625db34ad20d68e2e694a64d42a9c0863550d639dc1d8fca505b9525820cb797"
+          }
+        },
+        {
+          "kind": "products",
+          "url": "https://www.bonfiglioli.com/international/en",
+          "observation": "Organizes worm gearboxes by mounting architecture, torque duty, and conveyor/handling industry fit.",
+          "checkedAt": "2026-11-25T10:18:33.426Z",
+          "evidence": {
+            "path": "deliverables/blueprint-evidence/bonfiglioli-nav.json",
+            "sha256": "625db34ad20d68e2e694a64d42a9c0863550d639dc1d8fca505b9525820cb797"
+          }
+        }
+      ],
+      "homeSections": [
+        "Industrial Hero",
+        "Drive Portfolio",
+        "Industry Sectors",
+        "Engineering & Manufacturing",
+        "Contact"
+      ],
+      "navigation": [
+        "Products",
+        "Industries",
+        "About",
+        "Contact"
+      ],
+      "productTaxonomy": [
+        "Worm Gearboxes",
+        "Gearmotors",
+        "Industrial Drives"
+      ],
+      "adopt": [
+        "Application-oriented conveyor and material-handling guidance alongside hardware specs",
+        "Structured factory capacity and lead-time proof blocks"
+      ],
+      "reject": [
+        "Heavy corporate sustainability and investor sections unsupported by client materials",
+        "Do not copy Bonfiglioli product lines or inverter offerings"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.bonfiglioli.com/international/en",
+          "observation": "Verified HTTP 200 Bonfiglioli International English portal."
+        }
+      ]
+    },
+    {
+      "name": "Cleveland Gear",
+      "url": "https://www.clevelandgear.com/",
+      "normalizedDomain": "clevelandgear.com",
+      "source": "web",
+      "overseasEvidence": {
+        "country": "United States",
+        "whyCompetitor": "US enclosed worm gear drive and industrial speed reducer manufacturer serving conveyor and heavy-duty mechanical transmission buyers.",
+        "sourceUrl": "https://www.clevelandgear.com/products/"
+      },
+      "pagesReviewed": [
+        {
+          "kind": "home",
+          "url": "https://www.clevelandgear.com/",
+          "observation": "Direct manufacturer positioning highlighting enclosed gear drives, custom machining capability, and straightforward RFQ conversion.",
+          "checkedAt": "2026-11-25T10:18:33.426Z",
+          "evidence": {
+            "path": "deliverables/blueprint-evidence/clevelandgear-home.json",
+            "sha256": "9987d9b7e6bc722e9f82a69994909eb222b4f10746bf63f7149c1c27d396c4d3"
+          }
+        },
+        {
+          "kind": "navigation",
+          "url": "https://www.clevelandgear.com/",
+          "observation": "Concise 5-6 item industrial menu prioritizing Products, Manufacturing/Capabilities, About, and Request a Quote.",
+          "checkedAt": "2026-11-25T10:18:33.426Z",
+          "evidence": {
+            "path": "deliverables/blueprint-evidence/clevelandgear-home.json",
+            "sha256": "9987d9b7e6bc722e9f82a69994909eb222b4f10746bf63f7149c1c27d396c4d3"
+          }
+        },
+        {
+          "kind": "products",
+          "url": "https://www.clevelandgear.com/products/",
+          "observation": "Enclosed gear drives overview presenting cast-iron worm reducers with clear model differentiation and custom engineering inquiry CTA.",
+          "checkedAt": "2026-11-25T10:18:33.426Z",
+          "evidence": {
+            "path": "deliverables/blueprint-evidence/clevelandgear-products.json",
+            "sha256": "7b09e19172ba192d8368c52eaebab4bae5ce342f5bb4b5239987b0ecc7819e24"
+          }
+        }
+      ],
+      "homeSections": [
+        "Manufacturer Hero",
+        "Enclosed Gear Drives",
+        "Custom Machining & Foundry",
+        "Industries Served",
+        "Direct RFQ"
+      ],
+      "navigation": [
+        "Home",
+        "Products",
+        "Capabilities",
+        "About",
+        "Contact"
+      ],
+      "productTaxonomy": [
+        "Enclosed Worm Gear Drives",
+        "Custom Gearing"
+      ],
+      "adopt": [
+        "Direct-factory machining, assembly, and inventory readiness showcase",
+        "Balanced RFQ section pairing concrete factory contact details with structured model/quantity form"
+      ],
+      "reject": [
+        "Dated legacy table styling and dense unformatted text walls",
+        "Do not copy US inch-standard ratings or third-party testimonials"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.clevelandgear.com/",
+          "observation": "Verified HTTP 200 homepage for Enclosed Gear Drives & Open Gearing."
+        },
+        {
+          "url": "https://www.clevelandgear.com/products/",
+          "observation": "Verified HTTP 200 Enclosed Gear Drives catalog page."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "banner_id": "banner-1",
+    "source_file": "banner背景图/1.jpg",
+    "message_role": "compact-aluminum-series",
+    "eyebrow": "Hengda SpeedReducer · Since 2001",
+    "headline": "NMRV Aluminum Worm Gear Speed Reducers for Compact Conveyor Drives",
+    "supporting_copy": "Die-cast silver aluminum housings engineered for low-noise, high-efficiency right-angle power transmission.",
+    "evidence_refs": [
+      "产品信息!R6",
+      "产品（修改）/NMRV系列减速机.jpg",
+      "banner背景图/1.jpg"
+    ],
+    "primary_cta_label": "Explore NMRV Series",
+    "primary_cta_target": "/products/nmrv-series-worm-gear-reducer"
+  },
+  {
+    "banner_id": "banner-2",
+    "source_file": "banner背景图/2.jpg",
+    "message_role": "heavy-duty-cast-iron-portfolio",
+    "eyebrow": "WP (WPA/WPO/WPX/WPS) & WD Series",
+    "headline": "Cast-Iron Cylindrical Worm Reducers Built for High-Torque Transmission",
+    "supporting_copy": "Complete WPA, WPO, WPX, WPS, and WD configurations with wear-resistant bronze worm wheels and custom OEM/ODM options.",
+    "evidence_refs": [
+      "产品信息!R4-R5",
+      "FAQ问题!D4,D5,D9",
+      "banner背景图/2.jpg"
+    ],
+    "primary_cta_label": "Compare All Series",
+    "primary_cta_target": "/products"
+  },
+  {
+    "banner_id": "banner-3",
+    "source_file": "banner背景图/3.jpg",
+    "message_role": "direct-factory-capacity-supply",
+    "eyebrow": "Hangzhou Direct Manufacturer",
+    "headline": "2,700 m² Dedicated Factory — 4,000 Reducers Monthly with 10-Day Regular Delivery",
+    "supporting_copy": "Three workshops and three machining lines in Xiaoshan, Hangzhou supplying OEM machinery builders at MOQ 50 with outgoing factory inspection.",
+    "evidence_refs": [
+      "企业资料!C4,C15,C16,C18",
+      "FAQ问题!D11,D28",
+      "banner背景图/3.jpg"
+    ],
+    "primary_cta_label": "Tour Our Factory",
+    "primary_cta_target": "/manufacturing"
+  }
+]

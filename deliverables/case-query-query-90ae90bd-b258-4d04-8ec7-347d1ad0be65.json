@@ -1,0 +1,50 @@
+{
+  "context": {
+    "projectId": "project-aa21fd14-57e9-4d1c-8fa1-5c3eb804b8b3",
+    "runId": "run-be04ecdb-3272-48cf-9b76-930687611130",
+    "purpose": "build"
+  },
+  "localRequestId": "query-90ae90bd-b258-4d04-8ec7-347d1ad0be65",
+  "request": {
+    "match": "fuzzy",
+    "sort": "relevance",
+    "limit": "5",
+    "query": "worm gear speed reducer gearbox",
+    "industry": "industrial machinery"
+  },
+  "at": "2026-11-25T10:05:46.720Z",
+  "status": 200,
+  "response": {
+    "total": 0,
+    "limit": 5,
+    "items": [],
+    "meta": {
+      "searchVersion": "fuzzy-v2",
+      "normalizedIndustry": "机械设备与工业自动化",
+      "normalizedRegion": null,
+      "normalizedSort": "relevance",
+      "concepts": [
+        "worm",
+        "gear",
+        "speed",
+        "reducer",
+        "gearbox"
+      ],
+      "rawTerms": [
+        "worm",
+        "gear",
+        "speed",
+        "reducer",
+        "gearbox"
+      ],
+      "ignoredGenericTerms": false,
+      "matchDetails": [],
+      "experimental": true,
+      "requestId": "query-90ae90bd-b258-4d04-8ec7-347d1ad0be65",
+      "traceStatus": "recorded",
+      "responseHash": "e98ceacc087a1c9c5bae012e8bfa3f27b69aaf67da84cc500f14921c893e8a03",
+      "contextStatus": "linked",
+      "transport": "mcp"
+    }
+  }
+}

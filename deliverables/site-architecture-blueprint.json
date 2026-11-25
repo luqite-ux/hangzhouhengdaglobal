@@ -1,0 +1,200 @@
+{
+  "schemaVersion": 1,
+  "templateFamily": "industrial-machinery",
+  "navigation": [
+    {
+      "label": "Home",
+      "route": "/",
+      "level": 1,
+      "source": "Required explicit Home nav link",
+      "referencePeer": "motovario.com"
+    },
+    {
+      "label": "Products",
+      "route": "/products",
+      "level": 1,
+      "source": "产品信息!B4:H6 (WD, WP, NMRV)",
+      "referencePeer": "motovario.com"
+    },
+    {
+      "label": "Manufacturing",
+      "route": "/manufacturing",
+      "level": 1,
+      "source": "企业资料!C16,C18 & 公司图片/1-8.jpeg",
+      "referencePeer": "clevelandgear.com"
+    },
+    {
+      "label": "About",
+      "route": "/about",
+      "level": 1,
+      "source": "企业资料!C3,C4,C15 (Founded 2001)",
+      "referencePeer": "bonfiglioli.com"
+    },
+    {
+      "label": "News",
+      "route": "/news",
+      "level": 1,
+      "source": "Dynamic backend article publishing capability (exact News label)",
+      "referencePeer": "motovario.com"
+    },
+    {
+      "label": "Contact",
+      "route": "/contact",
+      "level": 1,
+      "source": "企业资料!C4,C6 + formal email info@hangzhouhengdaglobal.com",
+      "referencePeer": "clevelandgear.com"
+    }
+  ],
+  "productTaxonomy": [
+    {
+      "customerProduct": "WD Series Cylindrical Worm Gear Speed Reducer",
+      "category": "Worm Gear Speed Reducers",
+      "route": "/products/wd-worm-gear-reducer",
+      "source": "产品信息!R4 & 产品（修改）/WD减速机.jpg"
+    },
+    {
+      "customerProduct": "WP Series Cast-Iron Worm Gear Speed Reducer (WPA / WPO / WPX / WPS)",
+      "category": "Worm Gear Speed Reducers",
+      "route": "/products/wp-series-worm-gear-reducer",
+      "source": "产品信息!R5 & 产品（修改）/WP系列减速机.jpg"
+    },
+    {
+      "customerProduct": "NMRV Series Aluminum Worm Gear Speed Reducer",
+      "category": "Worm Gear Speed Reducers",
+      "route": "/products/nmrv-series-worm-gear-reducer",
+      "source": "产品信息!R6 & 产品（修改）/NMRV系列减速机.jpg"
+    }
+  ],
+  "homepageSections": [
+    {
+      "sectionId": "hero-banner-carousel",
+      "type": "hero",
+      "purpose": "Establish immediate identity as a direct cylindrical worm gear speed reducer manufacturer since 2001 using all 3 customer 3840x1600 Banner visuals.",
+      "informationGain": "Three distinct purchasing narratives across NMRV aluminum drives, WP/WD cast-iron reducers, and direct Hangzhou factory output.",
+      "factSource": "banner背景图/1-3.jpg; 企业资料!C3,C9,C15,C18",
+      "contentType": "adaptive-contrast-hero-carousel",
+      "desktopStrategy": "Full-width 3-slide carousel with slide-specific safe-zone alignment (Slide 1 dark text right; Slide 2 & 3 white text left).",
+      "mobile390Strategy": "Stacked visual-top (focused crop on reducer subject) + crisp high-contrast copy block below.",
+      "componentDecision": "Custom adaptive React hero carousel respecting per-slide safe zones and prefers-reduced-motion.",
+      "referencePeers": [
+        "motovario.com",
+        "bonfiglioli.com"
+      ]
+    },
+    {
+      "sectionId": "factory-metrics-bar",
+      "type": "metrics",
+      "purpose": "Quantify factory scale and fulfillment speed immediately below the fold.",
+      "informationGain": "Concrete manufacturer KPIs: Founded 2001, 2,700 m² facility with 3 workshops & 3 lines, 4,000 units/month capacity, 10-day regular lead time.",
+      "factSource": "企业资料!C15,C16,C18; FAQ问题!D11",
+      "contentType": "kpi-band",
+      "desktopStrategy": "4-column precision architectural metric bar with steel-blue hairline dividers.",
+      "mobile390Strategy": "2x2 balanced metric grid with zero horizontal overflow.",
+      "componentDecision": "Custom IntersectionObserver-revealed metric strip.",
+      "referencePeers": [
+        "clevelandgear.com"
+      ]
+    },
+    {
+      "sectionId": "core-reducer-series",
+      "type": "products",
+      "purpose": "Enable side-by-side comparison of the 3 core worm gear speed reducer series (WD, WP, NMRV).",
+      "informationGain": "Housing finish, model variants (WPA/WPO/WPX/WPS, WD, NMRV), low-noise efficiency, conveyor suitability, and MOQ 50 comparison.",
+      "factSource": "产品信息!R4-R6; 产品（修改）/*.jpg; FAQ问题!D4,D11",
+      "contentType": "product-comparison-grid",
+      "desktopStrategy": "3-column equal-height cards with clean white-stage 2000x2000 product photography and direct detail routing.",
+      "mobile390Strategy": "Single-column stacked cards with full-width product stage and clear tap targets.",
+      "componentDecision": "Custom backend-driven product grid wired to Supabase products and categories.",
+      "referencePeers": [
+        "motovario.com",
+        "clevelandgear.com"
+      ]
+    },
+    {
+      "sectionId": "interactive-3d-worm-gear-explorer",
+      "type": "interactive-3d",
+      "purpose": "Deliver a high-impact Three.js interactive 3D worm-and-wheel meshing demonstrator requested by owner.",
+      "informationGain": "Real-time 3D right-angle worm shaft driving bronze worm wheel with NMRV/WP/WD housing switcher, gear ratio slider, cutaway housing mode, and orbit drag.",
+      "factSource": "产品信息!R4-R6; 企业资料!C15 (圆柱蜗轮蜗杆减速机); Owner Three.js requirement",
+      "contentType": "threejs-webgl-explorer",
+      "desktopStrategy": "2-column split: interactive Three.js PBR WebGL canvas on left (60%) + live series/ratio/cutaway engineering controls on right (40%).",
+      "mobile390Strategy": "Compact 320px tall touch-friendly 3D canvas above tactile pill controls with static reduced-motion fallback.",
+      "componentDecision": "Custom Three.js PBR real-time meshing worm gear reducer explorer with DPR cap, offscreen pause, and prefers-reduced-motion fallback.",
+      "referencePeers": [
+        "motovario.com",
+        "bonfiglioli.com"
+      ]
+    },
+    {
+      "sectionId": "conveyor-industrial-applications",
+      "type": "applications",
+      "purpose": "Show how Hengda cylindrical worm reducers solve right-angle low-noise power transmission in conveyor and machinery systems.",
+      "informationGain": "Application fit across belt conveyors, packaging lines, material handling, and continuous-duty OEM machinery.",
+      "factSource": "产品信息!F4-F6; FAQ问题!D8,D10",
+      "contentType": "application-matrix",
+      "desktopStrategy": "Asymmetric 4-card engineering application grid linking each scenario to recommended reducer series.",
+      "mobile390Strategy": "Clean vertical cards with concise duty tags.",
+      "componentDecision": "Custom semantic application grid.",
+      "referencePeers": [
+        "bonfiglioli.com"
+      ]
+    },
+    {
+      "sectionId": "manufacturing-workshop-evidence",
+      "type": "manufacturing",
+      "purpose": "Prove real factory ownership through curated workshop, CNC machining, assembly, and stocked inventory photography.",
+      "informationGain": "Visual proof of CNC worm shaft machining, bronze worm wheel inventory, primed cast-iron housings, assembly lines, and export packaging.",
+      "factSource": "公司图片/1-8.jpeg; 企业资料!C16,C18",
+      "contentType": "curated-factory-showcase",
+      "desktopStrategy": "Editorial bento layout with primary CNC/workshop hero shots + grouped assembly/warehouse/dispatch cards linking to /manufacturing.",
+      "mobile390Strategy": "2-column + full-width lead photo stack with descriptive captions.",
+      "componentDecision": "Custom curated factory showcase with real captions (zero filename leakage).",
+      "referencePeers": [
+        "clevelandgear.com"
+      ]
+    },
+    {
+      "sectionId": "oem-customization-workflow",
+      "type": "workflow",
+      "purpose": "Explain how overseas OEMs order standard or customized reducers from specification to outgoing inspection.",
+      "informationGain": "4-step verified order workflow: Spec & Model Match -> OEM/ODM Custom Size/Color/Material -> 10-Day Regular / 30-Day Bulk Production -> Outgoing Inspection & Dispatch.",
+      "factSource": "FAQ问题!D5,D9,D11,D14,D21,D24,D28; 企业资料!C18",
+      "contentType": "process-steps",
+      "desktopStrategy": "4-column numbered engineering timeline with steel accent connectors.",
+      "mobile390Strategy": "Vertical stepped timeline with left index rail.",
+      "componentDecision": "Custom staggered workflow component.",
+      "referencePeers": [
+        "clevelandgear.com",
+        "bonfiglioli.com"
+      ]
+    },
+    {
+      "sectionId": "procurement-faq-section",
+      "type": "faq",
+      "purpose": "Resolve key procurement questions on models, MOQ 50, customization, lead times, bulk discounts, and outgoing inspection.",
+      "informationGain": "Verified answers to 8 practical buyer FAQs (strictly excluding warranty promises per policy).",
+      "factSource": "FAQ问题!R4,R5,R8,R9,R10,R11,R14,R21,D24,R28",
+      "contentType": "balanced-faq-accordion",
+      "desktopStrategy": "2-column balanced accordion layout (4 questions per column) with smooth expand/collapse.",
+      "mobile390Strategy": "Single-column accordion with 44px+ touch targets.",
+      "componentDecision": "Custom accessible accordion.",
+      "referencePeers": [
+        "motovario.com"
+      ]
+    },
+    {
+      "sectionId": "direct-rfq-contact-section",
+      "type": "contact",
+      "purpose": "Convert qualified buyers into direct factory inquiries with verified contact channels and 4-digit image CAPTCHA.",
+      "informationGain": "Balanced two-column layout pairing Hangzhou factory profile, address, phone (+86 13967166823), email (info@hangzhouhengdaglobal.com), and capacity highlights alongside structured RFQ form.",
+      "factSource": "企业资料!C3,C4,C6,C15,C16,C18; Owner formal email",
+      "contentType": "balanced-rfq-form",
+      "desktopStrategy": "Balanced 5:7 split where left column carries company overview, factory address, phone, email, and order terms so no hollow whitespace appears beside the RFQ form.",
+      "mobile390Strategy": "Stacked contact summary card above full-width RFQ form with clear 4-digit CAPTCHA.",
+      "componentDecision": "Custom Supabase-backed RFQ form with independent captchaScope.",
+      "referencePeers": [
+        "clevelandgear.com"
+      ]
+    }
+  ]
+}

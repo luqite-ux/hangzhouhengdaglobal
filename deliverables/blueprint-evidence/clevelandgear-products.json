@@ -1,0 +1,119 @@
+{
+  "id": "clevelandgear-products",
+  "requestedUrl": "https://www.clevelandgear.com/products/",
+  "finalUrl": "https://www.clevelandgear.com/products/enclosed-gear-drives",
+  "status": 200,
+  "fetchedAt": "2026-11-25T10:07:40.050Z",
+  "title": "Enclosed Gear Drives | Cleveland Gear",
+  "h1s": [
+    "Enclosed Gear Drives"
+  ],
+  "h2s": [
+    "Enclosed Gear Drives",
+    "Engineered for Performance. Built for Longevity.",
+    "Proven in Demanding Applications",
+    "Need help sizing a drive?"
+  ],
+  "sampleLinks": [
+    {
+      "href": "/about",
+      "text": "About"
+    },
+    {
+      "href": "/industries",
+      "text": "Industries"
+    },
+    {
+      "href": "/documents",
+      "text": "Resources"
+    },
+    {
+      "href": "/solutions",
+      "text": "Solutions"
+    },
+    {
+      "href": "/contact",
+      "text": "Contact Us"
+    },
+    {
+      "href": "/",
+      "text": "Home"
+    },
+    {
+      "href": "/contact",
+      "text": "Contact Us"
+    },
+    {
+      "href": "#documentation",
+      "text": "Download Catalog"
+    },
+    {
+      "href": "/industries",
+      "text": "View All Industries"
+    },
+    {
+      "href": "/contact",
+      "text": "Talk To An Engineer"
+    },
+    {
+      "href": "/contact",
+      "text": "Upload Specs or Drawing"
+    },
+    {
+      "href": "/products/enclosed-gear-drives",
+      "text": "Enclosed Gear Drives"
+    },
+    {
+      "href": "/products/open-gearing",
+      "text": "Open Gearing"
+    },
+    {
+      "href": "/products/rebuilds",
+      "text": "Rebuilds"
+    },
+    {
+      "href": "/industries/primary-metals",
+      "text": "Primary Metals"
+    },
+    {
+      "href": "/industries/power-generation",
+      "text": "Power Generation"
+    },
+    {
+      "href": "/industries/mining-and-minerals",
+      "text": "Mining and Minerals"
+    },
+    {
+      "href": "/industries/open-pit-quarry",
+      "text": "Open Pit Quarry"
+    },
+    {
+      "href": "/industries/data-centers",
+      "text": "Data Centers"
+    },
+    {
+      "href": "/industries/cranes",
+      "text": "Cranes"
+    },
+    {
+      "href": "/industries",
+      "text": "All Industries"
+    },
+    {
+      "href": "/about/history",
+      "text": "History"
+    },
+    {
+      "href": "/about/careers",
+      "text": "Careers"
+    },
+    {
+      "href": "/contact",
+      "text": "Contact Us"
+    },
+    {
+      "href": "/news",
+      "text": "News"
+    }
+  ]
+}

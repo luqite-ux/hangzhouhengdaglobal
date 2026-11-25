@@ -1,0 +1,85 @@
+{
+  "context": {
+    "projectId": "project-aa21fd14-57e9-4d1c-8fa1-5c3eb804b8b3",
+    "runId": "run-be04ecdb-3272-48cf-9b76-930687611130",
+    "purpose": "build"
+  },
+  "scope": "current-run-only",
+  "otherRunIds": [],
+  "checkedAt": "2026-11-25T10:19:44.294Z",
+  "complete": false,
+  "issues": [
+    "DELIVERY_UNRECORDED"
+  ],
+  "pending": 0,
+  "failedQueryCount": 0,
+  "queries": [
+    {
+      "receiptPath": "D:\\Cursor\\Grand\\dulizhan\\hangzhouhengdaglobal\\deliverables\\case-query-query-90ae90bd-b258-4d04-8ec7-347d1ad0be65.json",
+      "requestId": "query-90ae90bd-b258-4d04-8ec7-347d1ad0be65",
+      "request": {
+        "match": "fuzzy",
+        "sort": "relevance",
+        "limit": "5",
+        "query": "worm gear speed reducer gearbox",
+        "industry": "industrial machinery"
+      },
+      "status": 200,
+      "traceStatus": "recorded",
+      "decision": "none",
+      "decisionSent": true,
+      "caseSlugs": [],
+      "reason": "内部案例库三次查询工业减速机/机械传动关键词均返回0条命中，转为实际审阅 Motovario、Bonfiglioli、Cleveland Gear 三家海外蜗轮蜗杆减速机标杆同行并结合客户真实资料与 Three.js 传动交互设计。",
+      "externalReferences": [
+        "https://www.motovario.com/eng/",
+        "https://www.bonfiglioli.com/international/en",
+        "https://www.clevelandgear.com/"
+      ]
+    },
+    {
+      "receiptPath": "D:\\Cursor\\Grand\\dulizhan\\hangzhouhengdaglobal\\deliverables\\case-query-query-c185273e-610e-4f28-a832-230ea85f208d.json",
+      "requestId": "query-c185273e-610e-4f28-a832-230ea85f208d",
+      "request": {
+        "match": "fuzzy",
+        "sort": "relevance",
+        "limit": "5",
+        "query": "motor transmission valve pump cnc"
+      },
+      "status": 200,
+      "traceStatus": "recorded",
+      "decision": "none",
+      "decisionSent": true,
+      "caseSlugs": [],
+      "reason": "内部案例库三次查询工业减速机/机械传动关键词均返回0条命中，转为实际审阅 Motovario、Bonfiglioli、Cleveland Gear 三家海外蜗轮蜗杆减速机标杆同行并结合客户真实资料与 Three.js 传动交互设计。",
+      "externalReferences": [
+        "https://www.motovario.com/eng/",
+        "https://www.bonfiglioli.com/international/en",
+        "https://www.clevelandgear.com/"
+      ]
+    },
+    {
+      "receiptPath": "D:\\Cursor\\Grand\\dulizhan\\hangzhouhengdaglobal\\deliverables\\case-query-query-fcf65120-04f7-43a7-9e4b-933074e2d26e.json",
+      "requestId": "query-fcf65120-04f7-43a7-9e4b-933074e2d26e",
+      "request": {
+        "match": "fuzzy",
+        "sort": "relevance",
+        "limit": "5",
+        "query": "machinery equipment industrial",
+        "industry": "机械设备与工业自动化"
+      },
+      "status": 200,
+      "traceStatus": "recorded",
+      "decision": "none",
+      "decisionSent": true,
+      "caseSlugs": [],
+      "reason": "内部案例库三次查询工业减速机/机械传动关键词均返回0条命中，转为实际审阅 Motovario、Bonfiglioli、Cleveland Gear 三家海外蜗轮蜗杆减速机标杆同行并结合客户真实资料与 Three.js 传动交互设计。",
+      "externalReferences": [
+        "https://www.motovario.com/eng/",
+        "https://www.bonfiglioli.com/international/en",
+        "https://www.clevelandgear.com/"
+      ]
+    }
+  ],
+  "deliveries": [],
+  "note": "Current run only; other runs are not certified. Adoption is agent-reported, not Owner acceptance or proven design improvement."
+}

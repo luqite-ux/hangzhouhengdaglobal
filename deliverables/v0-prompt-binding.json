@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "promptPath": "deliverables/v0-prompt-hangzhouhengdaglobal.txt",
+  "sha256": "f2a7782a399077f4301649073d9c608e8c5cd015e6b715df87096ffcca461f8a",
+  "createdAt": "2026-11-25T10:18:33.426Z",
+  "sectionIds": [
+    "hero-banner-carousel",
+    "factory-metrics-bar",
+    "core-reducer-series",
+    "interactive-3d-worm-gear-explorer",
+    "conveyor-industrial-applications",
+    "manufacturing-workshop-evidence",
+    "oem-customization-workflow",
+    "procurement-faq-section",
+    "direct-rfq-contact-section"
+  ],
+  "navigationLabels": [
+    "Home",
+    "Products",
+    "Manufacturing",
+    "About",
+    "News",
+    "Contact"
+  ],
+  "path": "deliverables/v0-prompt-hangzhouhengdaglobal.txt"
+}

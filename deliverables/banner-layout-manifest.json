@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "customer": "杭州恒达减速机械厂",
+  "banners": [
+    {
+      "banner_id": "banner-1",
+      "source_file": "E:\\E暂存\\1609-杭州恒达减速机对接群\\banner背景图\\1.jpg",
+      "resolution": "3840x1600",
+      "subject_position": "left (x: 8% - 44%, silver NMRV worm gear reducer on machined turntable)",
+      "safe_copy_zone": "right (x: 50% - 94%, clean light cool-gray negative space)",
+      "desktop_copy_side": "right",
+      "desktop_text_theme": "dark-on-light (#0F172A text on light silver-white negative space)",
+      "desktop_object_position": "left center",
+      "mobile_390_strategy": "Stacked visual-top (aspect 16:10 focused on left 32% subject) + clean crisp slate-white text panel below so product is never covered."
+    },
+    {
+      "banner_id": "banner-2",
+      "source_file": "E:\\E暂存\\1609-杭州恒达减速机对接群\\banner背景图\\2.jpg",
+      "resolution": "3840x1600",
+      "subject_position": "right (x: 46% - 96%, industrial blue worm gearbox family & precision helical/worm gears)",
+      "safe_copy_zone": "left (x: 4% - 44%, clean steel-blue blueprint negative space)",
+      "desktop_copy_side": "left",
+      "desktop_text_theme": "light-on-dark (#FFFFFF text with subtle left-edge navy scrim only behind text column)",
+      "desktop_object_position": "right center",
+      "mobile_390_strategy": "Stacked visual-top (aspect 16:10 focused on right 68% product cluster) + deep navy text panel below."
+    },
+    {
+      "banner_id": "banner-3",
+      "source_file": "E:\\E暂存\\1609-杭州恒达减速机对接群\\banner背景图\\3.jpg",
+      "resolution": "3840x1600",
+      "subject_position": "right (x: 48% - 92%, precision speed reducer in blue industrial workshop with circular technical ring)",
+      "safe_copy_zone": "left (x: 4% - 45%, deep navy blue industrial negative space)",
+      "desktop_copy_side": "left",
+      "desktop_text_theme": "light-on-dark (#FFFFFF text on deep navy negative space)",
+      "desktop_object_position": "right center",
+      "mobile_390_strategy": "Stacked visual-top (aspect 16:10 focused on right 70% reducer) + deep navy text panel below."
+    }
+  ]
+}

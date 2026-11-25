@@ -1,0 +1,23 @@
+{
+  "id": "motovario-about",
+  "requestedUrl": "https://www.motovario.com/eng/company",
+  "finalUrl": "https://www.motovario.com/eng/",
+  "status": 200,
+  "fetchedAt": "2026-11-25T10:08:29.555Z",
+  "title": "Motoreducers, Motovariators, Electric Motors And Power Transmissions: Motovario",
+  "h1s": [
+    "Motovario"
+  ],
+  "h2s": [
+    "REINVENTING GEAR",
+    "CONTINUOUSLY EVOLVING",
+    "NEW E SERIES:",
+    "DOWNLOAD 2D/3D CAD DRAWINGS",
+    "SYNCHRONOUS MOTOR",
+    "TECO Series S510",
+    "ECODESIGN",
+    "Sharing is caring",
+    "Applications & Solutions",
+    "WORM GEAR REDUCERS, COMBINED AND WITH PRE-STAGE REDUCTION UNIT"
+  ]
+}

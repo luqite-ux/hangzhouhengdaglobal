@@ -1,0 +1,117 @@
+{
+  "id": "motovario-worm",
+  "requestedUrl": "https://www.motovario.com/eng/products/worm-gear-reducers",
+  "finalUrl": "https://www.motovario.com/eng/products/worm-gear-reducers",
+  "status": 200,
+  "fetchedAt": "2026-11-25T10:07:35.859Z",
+  "title": "| Motovario Group",
+  "h1s": [
+    "Motovario",
+    "Request info"
+  ],
+  "h2s": [
+    "Products"
+  ],
+  "sampleLinks": [
+    {
+      "href": "https://www.motovario.com/eng/",
+      "text": "Motovario"
+    },
+    {
+      "href": "https://www.motovario.com/eng/corporate/motovario",
+      "text": "Corporate"
+    },
+    {
+      "href": "https://www.motovario.com/eng/corporate/motovario",
+      "text": "Motovario"
+    },
+    {
+      "href": "https://www.motovario.com/eng/corporate/management-team",
+      "text": "Management team"
+    },
+    {
+      "href": "https://www.motovario.com/eng/corporate/our-subsidiaries-around-the-world",
+      "text": "Our subsidiaries around the world"
+    },
+    {
+      "href": "https://www.motovario.com/eng/corporate/teco",
+      "text": "Teco"
+    },
+    {
+      "href": "https://www.motovario.com/eng/corporate/pujol",
+      "text": "Pujol"
+    },
+    {
+      "href": "https://www.motovario.com/eng/corporate/become-dealer",
+      "text": "Become DEALER"
+    },
+    {
+      "href": "https://www.motovario.com/eng/corporate/vision-e-mission",
+      "text": "Vision & Mission"
+    },
+    {
+      "href": "https://www.motovario.com/eng/corporate/values",
+      "text": "Values"
+    },
+    {
+      "href": "https://www.motovario.com/eng/corporate/2d3d-cad-drawings-1",
+      "text": "2D/3D CAD drawings"
+    },
+    {
+      "href": "https://www.motovario.com/eng/corporate/code-of-ethics-and-whistleblowing",
+      "text": "Code of ethics and whistleblowing"
+    },
+    {
+      "href": "https://www.motovario.com/eng/corporate/certifications--company",
+      "text": "Certifications - COMPANY"
+    },
+    {
+      "href": "https://www.motovario.com/eng/corporate/certification--products",
+      "text": "Certification - PRODUCTS"
+    },
+    {
+      "href": "https://www.motovario.com/eng/work-with-us",
+      "text": "Work with us"
+    },
+    {
+      "href": "https://www.motovario.com/eng/products",
+      "text": "Products"
+    },
+    {
+      "href": "https://www.motovario.com/eng/products/helical-gear-reducers--h-series",
+      "text": "Helical gear reducers - H Series"
+    },
+    {
+      "href": "https://www.motovario.com/eng/products/helical-bevel-gear-reducers--b-series",
+      "text": "Helical bevel gear reducers - B Series"
+    },
+    {
+      "href": "https://www.motovario.com/eng/products/shaft-mounted-gear-reducers--s-series",
+      "text": "Shaft mounted gear reducers - S Series"
+    },
+    {
+      "href": "https://www.motovario.com/eng/products/planetary-gear-reducers--hpl-series",
+      "text": "Planetary gear reducers - HPL series"
+    },
+    {
+      "href": "https://www.motovario.com/eng/products/worm-gear-reducers--vsf-series",
+      "text": "Worm gear reducers - VSF Series"
+    },
+    {
+      "href": "https://www.motovario.com/eng/products/helical-bevel-gear-reducers--rw-series",
+      "text": "Helical bevel gear reducers - RW Series"
+    },
+    {
+      "href": "https://www.motovario.com/eng/products/motovariators--var-series",
+      "text": "Motovariators - VAR Series"
+    },
+    {
+      "href": "https://www.motovario.com/eng/products/electric-motors--m-series",
+      "text": "Electric motors - M Series"
+    },
+    {
+      "href": "https://www.motovario.com/eng/products/drives--d-series",
+      "text": "Drives - D Series"
+    }
+  ]
+}

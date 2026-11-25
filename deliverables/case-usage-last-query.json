@@ -1,0 +1,46 @@
+{
+  "context": {
+    "projectId": "project-aa21fd14-57e9-4d1c-8fa1-5c3eb804b8b3",
+    "runId": "run-be04ecdb-3272-48cf-9b76-930687611130",
+    "purpose": "build"
+  },
+  "localRequestId": "query-c185273e-610e-4f28-a832-230ea85f208d",
+  "request": {
+    "match": "fuzzy",
+    "sort": "relevance",
+    "limit": "5",
+    "query": "motor transmission valve pump cnc"
+  },
+  "at": "2026-11-25T10:06:36.868Z",
+  "status": 200,
+  "response": {
+    "total": 0,
+    "limit": 5,
+    "items": [],
+    "meta": {
+      "searchVersion": "fuzzy-v2",
+      "normalizedIndustry": null,
+      "normalizedRegion": null,
+      "normalizedSort": "relevance",
+      "concepts": [
+        "cnc",
+        "valve",
+        "pump",
+        "motor",
+        "transmission"
+      ],
+      "rawTerms": [
+        "motor",
+        "transmission"
+      ],
+      "ignoredGenericTerms": true,
+      "matchDetails": [],
+      "experimental": true,
+      "requestId": "query-c185273e-610e-4f28-a832-230ea85f208d",
+      "traceStatus": "recorded",
+      "responseHash": "714243fa150754b84bfbaee6a59c5ed3a1cf664a734e2d490e7bf72417dea22a",
+      "contextStatus": "linked",
+      "transport": "mcp"
+    }
+  }
+}
