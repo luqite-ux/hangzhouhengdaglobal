@@ -21,12 +21,13 @@ export async function generateMetadata({
   const { slug } = await params
   const product = await getLiveProductBySlug(slug, 'en')
   if (!product) return { title: 'Product Not Found' }
+  const rawTitle = (product.seoTitle || product.name).replace(/\s*\|\s*Hengda SpeedReducer\s*$/i, '').trim()
   return {
-    title: product.seoTitle || product.name,
+    title: rawTitle,
     description: product.seoDescription || product.description,
     alternates: { canonical: `/products/${product.slug}` },
     openGraph: {
-      title: product.seoTitle || product.name,
+      title: `${rawTitle} | Hengda SpeedReducer`,
       description: product.seoDescription || product.description,
       images: product.imageUrl ? [product.imageUrl] : undefined,
     },

@@ -115,7 +115,7 @@ export function HeroBannerCarousel() {
             <img
               src={item.image}
               alt={item.alt}
-              className={cn('h-full w-full object-cover', item.copySide === 'right' ? 'object-left' : 'object-right')}
+              className={cn('absolute inset-0 h-full w-full object-cover', item.copySide === 'right' ? 'object-left' : 'object-right')}
             />
             {/* Minimal localized scrim ONLY behind copy side on dark slides; NO dark overlay on light slide 1 */}
             {item.theme === 'dark' ? (
