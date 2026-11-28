@@ -117,11 +117,11 @@ export function HeroBannerCarousel() {
               alt={item.alt}
               className={cn('absolute inset-0 h-full w-full object-cover', item.copySide === 'right' ? 'object-left' : 'object-right')}
             />
-            {/* Minimal localized scrim ONLY behind copy side on dark slides; NO dark overlay on light slide 1 */}
+            {/* Minimal localized scrim ONLY behind left copy zone on dark slides; keep right product showcase 100% clear */}
             {item.theme === 'dark' ? (
               <div
                 aria-hidden="true"
-                className="absolute inset-0 bg-gradient-to-r from-slate-950/88 via-slate-950/55 to-transparent"
+                className="absolute inset-0 bg-[linear-gradient(90deg,rgba(9,19,42,0.72)_0%,rgba(9,19,42,0.36)_38%,rgba(9,19,42,0)_54%)]"
               />
             ) : null}
 

@@ -9,13 +9,13 @@ export const R2_ASSETS = {
   favicon: `${R2_BASE}/brand/hd-favicon.png`,
   banners: [
     `${R2_BASE}/banners/banner-1.jpg`,
-    `${R2_BASE}/banners/banner-2.jpg`,
-    `${R2_BASE}/banners/banner-3.jpg`,
+    `${R2_BASE}/banners/banner-2-v2.jpg`,
+    `${R2_BASE}/banners/banner-3-v2.jpg`,
   ],
   factory: [
     {
       id: 'factory-4',
-      src: `${R2_BASE}/factory/factory-4.jpeg`,
+      src: `${R2_BASE}/factory-v2/3.jpg`,
       group: 'Machining Workshop',
       role: 'primary',
       title: 'Main Machining Workshop Hall',
@@ -24,7 +24,7 @@ export const R2_ASSETS = {
     },
     {
       id: 'factory-5',
-      src: `${R2_BASE}/factory/factory-5.jpeg`,
+      src: `${R2_BASE}/factory-v2/4.jpg`,
       group: 'CNC Machining',
       role: 'primary',
       title: 'CNC Worm Shaft Processing Center',
@@ -33,7 +33,7 @@ export const R2_ASSETS = {
     },
     {
       id: 'factory-3',
-      src: `${R2_BASE}/factory/factory-3.jpeg`,
+      src: `${R2_BASE}/factory-v2/2.jpg`,
       group: 'Assembly Line',
       role: 'secondary',
       title: 'Precision Reducer Assembly Workbench',
@@ -42,7 +42,7 @@ export const R2_ASSETS = {
     },
     {
       id: 'factory-8',
-      src: `${R2_BASE}/factory/factory-8.jpeg`,
+      src: `${R2_BASE}/factory-v2/7.jpg`,
       group: 'Gear Components',
       role: 'secondary',
       title: 'Machined Bronze Worm Wheels Staging Area',
@@ -51,7 +51,7 @@ export const R2_ASSETS = {
     },
     {
       id: 'factory-2',
-      src: `${R2_BASE}/factory/factory-2.jpeg`,
+      src: `${R2_BASE}/factory-v2/1.jpg`,
       group: 'Casting Stock',
       role: 'secondary',
       title: 'Primed Cast-Iron Housing Inventory',
@@ -60,7 +60,7 @@ export const R2_ASSETS = {
     },
     {
       id: 'factory-1',
-      src: `${R2_BASE}/factory/factory-1.jpeg`,
+      src: `${R2_BASE}/factory-v2/8.jpg`,
       group: 'Component Warehouse',
       role: 'secondary',
       title: 'Worm Wheel & Sub-Assembly Racking',
@@ -69,7 +69,7 @@ export const R2_ASSETS = {
     },
     {
       id: 'factory-7',
-      src: `${R2_BASE}/factory/factory-7.jpeg`,
+      src: `${R2_BASE}/factory-v2/6.jpg`,
       group: 'Component Warehouse',
       role: 'secondary',
       title: 'Finished Parts Storage Hall',
@@ -78,7 +78,7 @@ export const R2_ASSETS = {
     },
     {
       id: 'factory-6',
-      src: `${R2_BASE}/factory/factory-6.jpeg`,
+      src: `${R2_BASE}/factory-v2/5.jpg`,
       group: 'Inspection & Dispatch',
       role: 'secondary',
       title: 'Outgoing Inspection & Export Packaging Bay',
